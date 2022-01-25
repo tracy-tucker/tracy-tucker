@@ -1,4 +1,7 @@
 ### Hi there 👋
+## Connect with me
+<p><a href="https://www.linkedin.com/in/tracy-tucker/" alt="LinkedIn Profile"><img src="ttps://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracy-tucker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <!-- I am a fullstack software engineer from bangladesh
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
