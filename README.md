@@ -3,6 +3,7 @@
 <p>
   <a href="https://www.linkedin.com/in/tracy-tucker/" alt="LinkedIn Profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" /></a>
   <a href="https://medium.com/@tracy-tucker" alt="Medium Profile"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height="30" /></a>
+  <a href="https://twitter.com/mapTracy" alt="Twitter Profile"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height="30" /></a>
 </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tracy-tucker&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
